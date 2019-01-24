@@ -22,7 +22,7 @@ These layers are logical not technical separation to form a full Money over IP (
 * **Layer 1 Security:** Ensures money is held securely by specific entities. This is best defined by the question "Can someone else take my money?"
 * **Layer 2 Transport:** Ensure money can be moved with least possible friction between entities. This is defined by the question "how easily can I move money?"
 * **Layer 3 Orchestration:** Orchestrates movement of money based on rules being satisfied. Defined by the question "Can I automate that transaction?"
-* **Layer 4 Markets:** Abstracts the movement of money between entities into a market in which value can accrue. Defined by the question “Where does value accrue?”
+* **Layer 4 Markets:** Abstracts the movement of money between entities into a market based value creating system. Defined by the question “Where does value accrue?”
 * **Layer 5 Interface:** Presentation of services to users for interaction. Defined by the question "What is the user experience?"
 
 *More details will be added soon.
@@ -43,9 +43,8 @@ The purpose of this model then is to allow us to visualise the and understand th
 
 * Will Granny use Bitcoin? An exploration of Crypto Banks.
 * Etheruem versus Bitcoin and a case for focus.
-* What the f**k is a token on Bitcoin and where they fit.
+* What the fck is a token on Bitcoin and where they fit.
 * …Suggestions welcome?
 
-Please consider this a work in progress, subject to updates and contributions and commets are welcome. 
-
+Please consider this a work in progress, subject to updates and contributions and commets are welcome.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
