@@ -13,7 +13,7 @@ Bitcoin cake is a simple layered framework, used as a mental model to evaluate p
 
 ## The Bitcoin Cake
 
-Like any good cake, Bitcoin Cake has layers, five logical layers to be precise.
+Like any good cake, Bitcoin Cake has layers, five logical layers in my humble opinion.
 
 ![Bitcoin Cake Model](https://github.com/karma-pete/Bitcoin-Cake/blob/master/Architecture/bitcoin-cake.jpg "the Bitcoin Cake")
 
@@ -22,7 +22,7 @@ These layers are logical not technical separation to form a full Money over IP (
 * **Layer 1 Security:** Ensures money is held securely by specific entities. This is best defined by the question "Can someone else take my money?"
 * **Layer 2 Transport:** Ensure money can be moved with least possible friction between entities. This is defined by the question "how easily can I move money?"
 * **Layer 3 Orchestration:** Orchestrates movement of money based on rules being satisfied. Defined by the question "Can I automate that transaction?"
-* **Layer 4 Markets:** Abstracts the movement of money between entities into a market based value creating system. Defined by the question “Where does value accrue?”
+* **Layer 4 Markets:** Abstracts the movement of money between entities into a market based value creating system. Defined by the question “Who are the actors and how do the incentives align?”
 * **Layer 5 Interface:** Presentation of services to users for interaction. Defined by the question "What is the user experience?"
 
 *More details will be added soon.
